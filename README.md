@@ -1,2 +1,2 @@
-# Google-Docs-Addon
-Useful addon that converts csv/delimitted input to a table in google docs.
+# Google-Docs-Addon Privacy Policies
+https://www.privacypolicies.com/live/ad0433fa-bb73-4056-901f-24583b946682
